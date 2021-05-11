@@ -31,3 +31,11 @@ public class Hanoi {
 
     }
 }
+
+/*
+*** description ***
+size ==> quantity of elements to move
+initialPlace ==> place where we start (1st stick)
+finalPlace ==> final number of stick (I use here stick no.2)
+temporaryPlace ==> that my temporary stick (here is number 3)
+ */
